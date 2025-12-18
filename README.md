@@ -3,7 +3,6 @@ Industrial fault detection system using machine learning to predict equipment fa
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/streamlit-1.28+-red.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 ## Project Overview
 
